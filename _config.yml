@@ -1,0 +1,14 @@
+title: Yifeng Chu
+email: ychu26@illinois.edu
+description: ""
+baseurl: ""
+url: ""
+
+markdown: kramdown
+
+plugins: []
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
