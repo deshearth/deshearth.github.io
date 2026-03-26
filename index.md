@@ -21,7 +21,7 @@ title: Home
 ## Research
 {: #research}
 
-I am interested in the theoretical aspects of machine learning, as well as learning in biological systems.
+I am interested in the theoretical aspects of machine learning.
 
 Much of my recent work focuses on Talagrand's *majorizing measure theorem* and its various formulations and softmax extensions. This direction is motivated by the aim of better understanding the generalization abilities of modern machine learning models, in particular through frameworks that unify the geometric complexity of the hypothesis space with the information-theoretic stability of the learning algorithm.
 
